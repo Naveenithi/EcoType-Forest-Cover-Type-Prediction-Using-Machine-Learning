@@ -11,6 +11,7 @@ The project was implemented using well-structured Python scripts and Jupyter not
 To build a machine learning model that predicts forest cover type using cartographic and environmental features.
 
 🔹 Data Analysis
+
 Dataset contains 145,890 records with 13 features
 
 No missing values initially, but feature engineering introduced NaNs and infinite values which were handled
