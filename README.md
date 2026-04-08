@@ -92,10 +92,15 @@ Clean and interactive UI
 ⚖️ 6. Model Comparison
 
 Model	Performance
+
 Random Forest	⭐ Best
+
 XGBoost	High
+
 Decision Tree	Overfitting
+
 KNN	Moderate
+
 Logistic Regression	Lower
 
 📑 ✅ Project Guidelines
@@ -125,6 +130,7 @@ Validated performance using:
 Accuracy
 Confusion matrix
 Classification report
+
 🎯 Final Conclusion
 
 This project successfully demonstrates an end-to-end machine learning pipeline for forest cover type prediction. The integration of feature engineering, class balancing, and ensemble learning methods resulted in a robust and accurate model. Deployment using Streamlit enables real-time usability, making the solution practical for environmental and land-use applications.
